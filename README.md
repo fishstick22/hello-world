@@ -1,2 +1,3 @@
 # hello-world
 Well, have to start somewhere, right?
+I'm getting into Angular after a lifetime coding COBOL then Java, first moving into Struts then Spring, now trying to catch up on all the cool kids' stuff...
