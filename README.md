@@ -16,3 +16,5 @@ Angular 2 Crash Course with Typescript
 Angular 2 Fundamentals for Web Developers
 Angular 2 Demystified
 Angular 2 with Typescript for Beginners: The Pragmatic Guide
+-------------------------------------------------------------
+
