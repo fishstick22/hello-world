@@ -1,8 +1,8 @@
-# hello-world
+# Hello World!
 
 ## Well, have to start somewhere, right?
 
-I'm getting into Angular after a lifetime coding COBOL then Java, first moving into Struts then Spring, now trying to catch up on all the cool kids' stuff...
+I'm getting into Angular after a lifetime coding, starting from BASIC in High School, Assembler, FORTRAN, COBOL, PL/I in University, early career using COBOL up through "Y2K" then moving into Java/J2EE and web technologies (such as they were) Struts then Spring, now trying to catch up on all the cool kids' stuff...
 
 Started with some simple examples on the web, moved on to some courses offered at work thru Skillsoft, quickly realized how dated all that was (AngularJS) and how fast things are moving.  
 
